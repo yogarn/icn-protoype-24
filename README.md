@@ -31,10 +31,8 @@ The table below lists the default ESP32 pin assignments as defined in `include/c
 ## Future Works
 - [x] Interfacing LDR sensor
 - [x] Interfacing TDS sensor
-- [ ] Implementing MQTT-based data publishing to a remote server
+- [x] Implementing MQTT-based data publishing to a remote server
 - [ ] Interfacing Analog pH meter
-- [ ] Interfacing temperature sensor
-- [ ] Interfacing turbidity sensor
 - [ ] Integrating relay control for pumps and other actuators
 
 ## Known Issues
